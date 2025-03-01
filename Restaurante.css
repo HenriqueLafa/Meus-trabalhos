@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+   padding: 10px;
+   font-size: 20px;
+   background-color: #50232e;
+   color: orange;
+   
+}
+
+.Ivaldo {
+    text-align:center;
+    background-color: #f77c3e
+    
+}
+
+.Ivaldo p {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Julia {
+    text-align: center;
+    padding: 200px;
+    background-image: url(restaurant-1837150_1280.jpg);
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #7f4311;
+}
+.Julia button {
+    width: 250px;
+    padding: 30px;
+    background-color: rgba(128, 128, 128, 0.849);
+    color: white;
+    border-radius: 5px;
+
+}
+.Duda {
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 230px;
+    background-color: #fce185;
+    
+}
+.Duda p {
+    font-size: 20px;
+    font-weight: bold;
+}
+.Duda img {
+    width: 550px;
+}
+.irineu {
+    display: block;
+    justify-content: center;
+    text-align: center;
+    background-color: #fce185;
+}
+.savio {
+    text-align: center;
+    padding: 0 10em 2em;
+    background-color: #83764c;
+    
+}
+
+.savio p {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.savio h2 {
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+}
+
+.savio button {
+   width: 150px;
+   padding: 5px 5px 1px;
+}
+
+.savio img {
+    display: flex;
+    justify-content: center;
+}
+
+.Paulo {
+    background-color:#a2a384 ;
+    padding: 80px;
+    text-align: center;
+    
+}
+    .Paulo button {
+        width: 200px;
+        padding: 20px;
+        
+    }
+    
+    .Arnaldo {
+        padding: 10px 0px 0px;
+        text-align: center;
+        font-size: 30px;
+        background-color: #eac388;
+
+    }
+ .Jonas {
+    padding: 30px;
+ }
+
+ footer {
+    font-size: 20px;
+    text-align: center;
+    padding: 40px;
+    gap: 310px;
+    background-color: #eac388;
+ }
+ .Adolfo {
+    font-size: 20px;
+ }
+
+ .div-savio  {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+    
+ }
